@@ -2,6 +2,9 @@ using System;
 
 public class Program
 {
+	// more of a ball sort 
+	// true bubble sort shoudl find the largest item and then push it to top
+	// and then find the next largest and so on.
 	public static int[] BubbleSort(int[] a)
 	{
 		bool finishedSorting = false;
